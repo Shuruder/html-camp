@@ -46,3 +46,13 @@ a {
     margin: 0;
     margin-bottom: 15px;
 }
+
+.contact_list {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    text-decoration: none;
+}
